@@ -1,5 +1,5 @@
 # PokeApp
-Pokemon GO App that displays a minuscule PokeDex, Rocket Leader Counters, and Pokemon Type Counter Picker
+Pokemon GO App that displays a small scale PokeDex, Rocket Leader Counters, and Pokemon Type Counter Picker
 
 Decided to do this project because of myself playing Pokemon GO and also my family. 
 It features a small scale Pokedex that JSON API calls from a online server to display Pokemon. 
