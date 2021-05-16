@@ -6,6 +6,8 @@ It features a small scale Pokedex that JSON API calls from a online server to di
 Also, has a tab where you can find the type counters for the Rocket Leaders such as Cliff, Arlo, and Sierra.
 Lastly, the app has a picker style selector where you can choose what Poketype you want to find the weaknesses for.
 
+***Disclaimer: If you view the files, the folder and workspace is named as "PokeDex". It's like this because, I essentially was building a Pokedex at first but decided to add more content to the app, hence why the folder name. I haven't learned to rename the folder and namespace properly without breaking the app at the moment. Sorry for the inconvenience.***
+
 ## Front Page:
 
 The front page explains what the app consist of so far, and what each feature shows.
