@@ -6,7 +6,7 @@ It features a small scale Pokedex that JSON API calls from a online server to di
 Also has a tab where you can find the type counters for the Rocket Leaders such as Cliff, Arlo, and Sierra.
 Lastly, the app has a picker style selector where you can choose what Poketype you want to find the weaknesses for.
 
-Front Page:
+## Front Page:
 
 The front page explains what the app consist of so far, and what each feature shows.
 
@@ -14,34 +14,36 @@ The front page explains what the app consist of so far, and what each feature sh
 
 
 
-Tab Bar:
+## Tab Bar:
 
 Displays available tabs to navigate to.
 
 ![rsz_img-0100](https://user-images.githubusercontent.com/44517611/118406798-0b163180-b643-11eb-951e-62affb824ce9.png)
 
-Pokedex:
+## Pokedex Tab:
 
 Display Pokemon of the Kanto Region.
 
 ![rsz_img-0101](https://user-images.githubusercontent.com/44517611/118406905-b0310a00-b643-11eb-9488-27274b298859.png)
 
-Rocket Leader Tab:
+## Rocket Leader Tab:
 
-Contains informations on the Rocket Leader's Pokemon, and what to counter them with.
+Contains information on the Rocket Leader's Pokemon, and what types to counter them with.
 
 ![rsz_img-0102](https://user-images.githubusercontent.com/44517611/118406915-c63eca80-b643-11eb-851f-eb2f4a2c83ee.png)
 
-Counter Picker:
+## Counter Picker Tab:
 
 The user can select a Pokemon type and the picker displays what the type is weak to.
 
 ![rsz_img-0103](https://user-images.githubusercontent.com/44517611/118406948-ec646a80-b643-11eb-83d0-cd5a84cef8b6.png)
 
-Video Demo:
+## Video Demo:
 
 Lastly, I've included a video demo of the PokeApp.
 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44517611/118407796-f2f4e100-b647-11eb-8baa-6ccdd286df42.gif)
 
 
 
