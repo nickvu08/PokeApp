@@ -7,4 +7,5 @@ Also has a tab where you can find the type counters for the Rocket Leaders such 
 Lastly, the app has a picker style selector where you can choose what Poketype you want to find the weaknesses for.
 
 Front Page:
-![IMG-0099](https://user-images.githubusercontent.com/44517611/118406675-6b58a380-b642-11eb-86c6-243beb64cca8.PNG)
+![rsz_img-0099](https://user-images.githubusercontent.com/44517611/118406736-c2f70f00-b642-11eb-9b5a-bd87d235bc6c.png)
+
