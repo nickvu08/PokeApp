@@ -7,7 +7,9 @@ Also, has a tab where you can find the type counters for the Rocket Leaders such
 Lastly, the app has a picker style selector where you can choose what Poketype you want to find the weaknesses for.
 
 
+***
 ***Disclaimer: If you view the files, the folder and workspace is named as "PokeDex". It's like this because, I essentially was building a Pokedex at first but decided to add more content to the app, hence why the folder name. I haven't learned to rename the folder and namespace properly without breaking the app at the moment. Sorry for the inconvenience. Also,this is not the finalized product of the application I envisioned. I wanted to show the app with completed functions I have learned at the moment, and will possibly plan to update PokeApp when I gain more knowledge in SwiftUI.***
+***
 
 
 ## Front Page:
